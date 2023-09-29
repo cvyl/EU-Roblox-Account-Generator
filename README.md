@@ -1,28 +1,18 @@
-# Roblox Account Creator
-
-Roblox Account Creator is a Python program that automates the process of creating Roblox accounts using Selenium. This program can generate multiple Roblox accounts with randomized attributes for testing or other purposes that require new Roblox accounts.
-## Version
-## 0.0.1 (Bata Test)
+# EU-Compliant Roblox Account Generator
+### Assuming you have python installed.
 
 
 ## How to Use
 0. [Download Web driver](https://chromedriver.chromium.org/downloads)
 
   
-2. Open the Roblox Account Creator program using the following command:
+2. Download and run the program using the following.
 ```
 git clone https://github.com/NSTIOM/Roblox-Account-Creator.git
+cd Roblox-Account-Creator
+pip install -r requirements.txt
+python main.py
 ```
-
-
-- `cd Roblox-Account-Creator`
-
-
-- `pip install -r requirements.txt`
-
-
-- `python main.py`
-
 
 2. Enter the basic information:
 - **Enter the number of iterations:** Specify the number of Roblox accounts you want to create.
@@ -30,10 +20,6 @@ git clone https://github.com/NSTIOM/Roblox-Account-Creator.git
 - **Name length:** Specify the number of characters you want in the Username.
 
 3. Click the "Create Accounts" button to start the process of creating Roblox accounts. The program will automatically create accounts and save the account data in the "Account.txt" file.
-
-4. If you need additional information or require assistance, you can click the "Help" button to view usage guidelines.
-
-5. If you wish to join our Discord community for discussions and information exchange, click the "DISCORD" button to join our Discord server.
 
 ## Additional Notes
 
