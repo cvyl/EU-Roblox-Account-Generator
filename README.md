@@ -1,4 +1,5 @@
 # EU-Compliant Roblox Account Generator
+![teehee](https://i.gyazo.com/a12f9a7bda3b9805c0a80c7fe24741c9.png)
 ### Assuming you have python installed.
 
 
