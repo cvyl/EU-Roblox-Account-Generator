@@ -41,16 +41,6 @@ git clone https://github.com/NSTIOM/Roblox-Account-Creator.git
 
 - Please note that creating a large number of Roblox accounts may have an impact on your accounts. This program is intended for testing and training purposes with Selenium.
 
-## Credits
-
-This program was developed by DISCORD NSTIOM COMMUNITY and should be credited to this community.
-
-## Additional Information
-
-For further information or to report issues, please contact the developer:
-
-- [DISCORD NSTIOM COMMUNITY](https://discord.gg/HQRkR6QPw4)
-
 ## Disclaimer
 
 This program is for educational and testing purposes only. Use it responsibly and in compliance with Roblox's terms and conditions.
