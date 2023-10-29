@@ -34,9 +34,3 @@ This program is for educational and testing purposes only. Use it responsibly an
 
 ### Roblox Terms and Conditions
 [https://en.help.roblox.com/hc/en-us/articles/115004647846](https://en.help.roblox.com/hc/en-us/articles/115004647846)
-
-## Developers
-
-- DISCORD NSTIOM COMMUNITY
-
-Thank you for using Roblox Account Creator, and enjoy using it!
