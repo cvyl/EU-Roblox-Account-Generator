@@ -4,7 +4,7 @@
 
 
 ## How to Use
-0. [Download Web driver](https://chromedriver.chromium.org/downloads)
+1. [Download Web driver](https://chromedriver.chromium.org/downloads)
 
   
 2. Download and run the program using the following.
@@ -15,12 +15,12 @@ pip install -r requirements.txt
 python main.py
 ```
 
-2. Enter the basic information:
+3. Enter the basic information:
 - **Enter the number of iterations:** Specify the number of Roblox accounts you want to create.
 - **Starting name:** Enter the prefix you want your Roblox accounts to start with.
 - **Name length:** Specify the number of characters you want in the Username.
 
-3. Click the "Create Accounts" button to start the process of creating Roblox accounts. The program will automatically create accounts and save the account data in the "Account.txt" file.
+4. Click the "Create Accounts" button to start the process of creating Roblox accounts. The program will automatically create accounts and save the account data in the "Account.txt" file.
 
 ## Additional Notes
 
