@@ -9,7 +9,7 @@
   
 2. Download and run the program using the following.
 ```
-git clone https://github.com/NSTIOM/Roblox-Account-Creator.git
+git clone https://github.com/repfuel/EU-Roblox-Account-Generator.git
 cd Roblox-Account-Creator
 pip install -r requirements.txt
 python main.py
